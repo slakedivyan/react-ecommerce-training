@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "name": "Television",
+      "description": "To watch movies",
+      "quantity": 10,
+      "price": 1455.25,
+      "photo": "https://media.product.which.co.uk/prod/images/pr_4to3_400x300/03ccb6620724-what-size-tv.jpg"
+    },
+    {
+      "name": "Radio",
+      "description": "To listen music",
+      "quantity": 25,
+      "price": 234.55,
+      "photo": "https://forum.lowyat.net/uploads//attach-27/post-181327-1420904390_thumb.jpg"
+    },
+    {
+      "name": "Laptop",
+      "description": "To do work",
+      "quantity": 35,
+      "price": 3456.75,
+      "photo": "https://c.ndtvimg.com/2021-06/klnbc1mo_laptop1_640x480_26_June_21.jpg?downsize=400:300&output-quality=80"
+    },
+    {
+      "name": "Computer",
+      "description": "To play games",
+      "quantity": 40,
+      "price": 2839.25,
+      "photo": "https://5.imimg.com/data5/UU/AW/MY-55639974/14-500x500.jpg"
+    },
+    {
+      "name": "Tablet",
+      "description": "To do presentation",
+      "quantity": 60,
+      "price": 789.15,
+      "photo": "https://static.toiimg.com/thumb/msid-81447232,imgsize-251079,width-400,resizemode-4/81447232.jpg"
+    },
+    {
+      "name": "Bicycle",
+      "description": "To travel",
+      "quantity": 150,
+      "price": 1234.55,
+      "photo": "https://www.motoshark.com/wp-content/uploads/2019/07/dirt-bike-size-kids.jpg"
+    }
+  ],
+  "shoppingcart": [
+    {
+      "id": "09fc",
+      "product": {
+        "name": "Radio",
+        "description": "To listen music",
+        "quantity": 25,
+        "price": 234.55,
+        "photo": "https://forum.lowyat.net/uploads//attach-27/post-181327-1420904390_thumb.jpg"
+      },
+      "requiredQuantity": "5"
+    }
+  ]
+}
